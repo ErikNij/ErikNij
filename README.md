@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @ErikNij (Erik Nijkamp)
 - 👀 I’m interested in modeling Chemical Engineering via programming
-- 🌱 I’m currently learning MatLab and Python
+- 🌱 I’m currently learning MatLab, Python and C!
 - 💞️ I’m looking to collaborate on any ChemE model / optimization!
 - 📫 You can always reach me at f.w.nijkamp@student.tue.nl or fwnijkamp@gmail.com
 
